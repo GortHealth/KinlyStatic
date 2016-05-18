@@ -241,9 +241,9 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px
 }
 header .intro-text .intro-heading {
-    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    font-weight: 700;
+    /*font-weight: 700;*/
     font-size: 50px;
     line-height: 50px;
     margin-bottom: 25px
