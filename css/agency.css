@@ -725,3 +725,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #13938e
 }
+
+#sponsors {
+  padding: 20px 0
+}
