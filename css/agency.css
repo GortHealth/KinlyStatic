@@ -734,3 +734,23 @@ body {
 #survey {
   background: #94d3c2
 }
+
+.btn-survey {
+    color: #fff;
+    background-color: #13938e;
+    border-color: #13938e;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 20px 40px
+}
+.btn-survey:hover,
+.btn-survey:focus,
+.btn-survey:active,
+.btn-survey.active,
+.open .dropdown-toggle.btn-xl {
+    color: #fff;
+    background-color: #94d3c2;
+    border-color: #94d3c2
