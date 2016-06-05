@@ -746,6 +746,7 @@ body {
     font-size: 18px;
     padding: 20px 40px
 }
+
 .btn-survey:hover,
 .btn-survey:focus,
 .btn-survey:active,
@@ -754,3 +755,4 @@ body {
     color: #fff;
     background-color: #231f20;
     border-color: #231f20
+}
