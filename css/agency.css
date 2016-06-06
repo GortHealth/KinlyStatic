@@ -756,3 +756,10 @@ body {
     background-color: #231f20;
     border-color: #231f20
 }
+
+.sponsors:before {
+content:"";
+display:block;
+height:50px; /* fixed header height*/
+margin:-50px 0 0; /* negative fixed header height */
+}
